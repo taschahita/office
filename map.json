@@ -885,7 +885,7 @@
                  "id":43,
                  "properties":[
                         {
-                         "name":"colildes",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
